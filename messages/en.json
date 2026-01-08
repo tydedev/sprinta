@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homePage": {
+      "title": "Sprinta"
+    }
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "Hero": {
+      "title": "Plan tasks, organize teams, and move fast  <sprinta>without overthinking </sprinta>",
+      "description": "Sprint and task management designed for those who work in cycles, not endless lists.",
+      "button": "Start for free"
+    },
+    "Responsive": {
+      "title": "<sprinta>Mobile-first</sprinta> design",
+      "subtitle": "Work seamlessly on any device",
+      "description": "Sprinta works wherever you do — desktop, tablet, or mobile. Enjoy a smooth, responsive experience that feels just like a native app.",
+      "list": {
+        "1": "Organize tasks and collaborate with your team",
+        "2": "Edit tasks in real time without delays",
+        "3": "Plan sprints and set clear deadlines",
+        "4": "Track progress and measure team performance",
+        "5": "Visualize your workflow with clear charts"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "title": "Not Found",
+    "description": "The page you are looking for does not exist."
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, it {Italiano} en {English} other {Unknown}}"
+  },
+  "Navbar": {
+    "login": "Login",
+    "signup": "Sign up"
+  }
+}

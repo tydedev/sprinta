@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "homePage": {
+      "title": "Sprinta"
+    }
+  },
+  "HomePage": {
+    "title": "Ciao Mondo!",
+    "Hero": {
+      "title": "Pianifica le attività, organizza i team e muoviti veloce <sprinta>senza pensarci troppo</sprinta>",
+      "description": "Gestione di sprint e attività pensata per chi lavora per cicli, non per liste infinite.",
+      "button": "Inizia gratis"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Pagina non trovata",
+    "description": "La pagina che stai cercando non esiste."
+  },
+  "LocaleSwitcher": {
+    "label": "Cambia la lingua",
+    "locale": "{locale, select, it {Italiano} en {English} other {Unknown}}"
+  },
+  "Navbar": {
+    "login": "Accedi",
+    "signup": "Registrati"
+  }
+}
